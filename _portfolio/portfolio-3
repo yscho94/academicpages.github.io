@@ -1,0 +1,8 @@
+---
+title: " Heatmap and Select Box"
+excerpt: "<img src='/images/Untitled.png' height='300' width='500'>"
+
+---
+
+A heatmp that describes the number of appearances of characters from each six of the houses in HBO’s Game of Thrones across episodes and seasons.
+Visualization of the data using D3 heatmaps. 
