@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.B.A in Management Information Systems, University of Georgia, 2016
+* M.S. in Analytics, Georgia Institute of Technology, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014 ~ Fall 2015: Customer Sales Representative
+  * Joy Joy Beauty Supply & Party
+  * Duties included: 
+    ITIL/ITSM as it relates to IT operations (i.e. people, process and tools).
+    Project: SAM Software Complete Implementation.
+  * Supervisor: David Giddens, IT Asset Manager
+  
+* Summer 2016: IT Asset Management Intern
+  * Novelis
+  * Duties included: 
+    Simplified the database based on Store POS and Manager software by organizing data properly.
+    Organized products needed to be ordered in MS Excel and order from wholesalers via fax and phone.
+  * Supervisor: Eugene Oh, Manager
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming
+  * Python (scikit-learn, ggplot2, numPy, sciPy, matplotlib, pandas, etc.)
+  * Java
+  * R (Radiant, e1071, caret, MASS, ggplot2, etc.)
+  * SQL (MySQL)
+  * D3.js
+  * Hadoop (HDFS, MapReduce)
+  * Scala (Spark)
+  * Apache Pig
+  * Cloud Computing (AWS, MS Azure)
+  * Web Programming (HTML, CSS, PHP, jQuery, XML, etc.)
+* Language
+  * English
+  * Korean
+* Software Applications
+  * Tableau, Excel, Photoshop, Cubase 8, etc.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Business Intelligence Society of Atlanta, Member
+* Data Science ATL, Member
+* Business Analytics Club, Member
+
+Certificates
+======
+* Lean Six Sigma Yellow Belt, 2015
+* Microsoft Technology Associate (Database Fundamentals), 2015
+
