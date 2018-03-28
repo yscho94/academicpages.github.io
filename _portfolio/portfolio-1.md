@@ -1,6 +1,11 @@
 ---
 title: "Data Visualization Projects"
-excerpt: "Data Visualization Projects coded with d3.js, HTML, CSS, and Java<br/><img src='/images/graph.png'><br/><img src='/images/Capture.png'><br/><img src='/images/Capture2.png'><br/><img src='/images/Untitled.png'><br/><img src='/images/Untitled2.png'><br/><img src='/images/Untitled3.png'>"
+excerpt: "Twitter API Clustering<br/><img src='/images/graph.png' height="300" width="500"><br/>
+Twitter API Clustering with Weight Analysis<img src='/images/Capture.png' height="300" width="500"><br/>
+Visualizing Hierarchical Data with a Dendrogram<img src='/images/Capture2.png' height="300" width="500"><br/>
+Heatmap and Select Box<img src='/images/Untitled.png' height="300" width="500"><br/>
+Choropleth Map of World Population<img src='/images/Untitled2.png' height="300" width="500"><br/>
+Interactive visualization<img src='/images/Untitled3.png' height="300" width="500">"
 collection: portfolio
 ---
 
