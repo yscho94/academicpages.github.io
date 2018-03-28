@@ -21,14 +21,13 @@ Work experience
   * Duties included: 
     ITIL/ITSM as it relates to IT operations (i.e. people, process and tools).
     Project: SAM Software Complete Implementation.
-  * Supervisor: David Giddens, IT Asset Manager
-  
+  * Supervisor: Eugene Oh, Manager 
 * Summer 2016: IT Asset Management Intern
   * Novelis
   * Duties included: 
     Simplified the database based on Store POS and Manager software by organizing data properly.
     Organized products needed to be ordered in MS Excel and order from wholesalers via fax and phone.
-  * Supervisor: Eugene Oh, Manager
+  * Supervisor: David Giddens, IT Asset Manager
   
 Skills
 ======
