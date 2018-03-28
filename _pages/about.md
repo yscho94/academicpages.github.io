@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jayden Cho, and this page is to summarize past projects I have worked on and contains CV. Click Project and CV tabs above for more info.
+My name is Jayden Cho, and I am currently pursuing Master's degree in Analytics with a concentration in Computational Data Analytics. 
+This page is to summarize past projects I have worked on and contains CV. Click Project and CV tabs above for more info. 
