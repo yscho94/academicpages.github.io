@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Visualization Projects"
+excerpt: "Data Visualization Projects coded with d3.js, HTML, CSS, and Java<br/><img src='/images/graph.png'><br/><img src='/images/Capture.png'><br/><img src='/images/Capture2.png'><br/><img src='/images/Untitled.png'><br/><img src='/images/Untitled2.png'><br/><img src='/images/Untitled3.png'>"
 collection: portfolio
 ---
 
