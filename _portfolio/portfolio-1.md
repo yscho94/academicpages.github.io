@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization Projects"
-excerpt: "Twitter API Clustering<br/><img src='/images/graph.png' height="300" width="500"><br/>"
+excerpt: "Twitter API Clustering<br/><img src='/images/graph.png' height="300" width="500">"
 collection: portfolio
 ---
 
